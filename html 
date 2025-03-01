@@ -1,0 +1,2 @@
+- name: Format SQL
+  uses: ryohidaka/action-sql-format@v0.1.1
